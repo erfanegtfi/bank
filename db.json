@@ -9,5 +9,5 @@
     {"id":"e47530b3-63a3-47e1-90db-49a3cb85d803" "date": "2025-09-08T01:08:36.792288", "description": "POS Purchase", "amount": -4, "beneficiary_name":"", "account_number": "345656587787" },
   ],
   "status": "success",
-  "message": "",
+  "message": ""
 }
