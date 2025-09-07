@@ -1,5 +1,5 @@
 {
-  "data": [
+  "result": [
     {"id":"e0514ce7-e7fb-44d3-b538-b4c20e09be90", "date": "2025-09-01T15:08:48.792288", "description": "Incoming Transfer", "amount": 86.03, "beneficiary_name":"Jane Smith", "account_number": "345656587781" },
     {"id":"ca3bb014-f1eb-419b-93cc-72b886dc3121", "date": "2025-09-02T14:20:55.792288", "description": "Incoming Transfer", "amount": 1, "beneficiary_name":"John Travolta", "account_number": "345656587782" },
     {"id":"3aff4163-fd41-4bd6-bec3-d365af0bc96e", "date": "2025-09-02T11:59:38.792288", "description": "ATM Withdrawal", "amount": -22.03, "beneficiary_name":"Jack Black", "account_number": "345656587783" },
@@ -7,7 +7,5 @@
     {"id":"41ff08d2-0771-4b45-8053-78bdfc429acd", "date": "2025-09-04T15:28:58.792288", "description": "Incoming Transfer", "amount": 25.05, "beneficiary_name":"Halle Berry", "account_number": "345656587785" },
     {"id":"1cb5fd5e-3d58-4155-9ead-53433b78ef57", "date": "2025-09-07T19:46:25.792288", "description": "Incoming Transfer", "amount": 28, "beneficiary_name":"Sharon Stone", "account_number": "345656587786" },
     {"id":"e47530b3-63a3-47e1-90db-49a3cb85d803", "date": "2025-09-08T01:08:36.792288", "description": "POS Purchase", "amount": -4, "beneficiary_name":"Russell Crowe", "account_number": "345656587787" }
-  ],
-  "status": "success",
-  "message": ""
+  ]
 }
